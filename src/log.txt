@@ -1,0 +1,9 @@
+Event 'Console output call' has occurred!
+Event 'Equality to the particular value' has occurred!
+Event 'Equality to the particular value' has occurred!
+UNSORTED ARRAY:
+[3, 4, 5, 6, 8, 0, 10, 23, 5]
+Event 'File output call' has occurred!
+SORTED ARRAY:
+[0, 3, 4, 5, 5, 6, 8, 10, 23]
+Event 'File output call' has occurred!
